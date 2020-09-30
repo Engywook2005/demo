@@ -1,23 +1,14 @@
-  {
-      "charger_id": "ClipperCreek_HCS_40_",
-      "make": "ClipperCreek",
-      "model": "HCS-40",
-      "model_variant": "",
-      "price": 565,
-      "price_src": "https://store.clippercreek.com/residential/hcs-40-hcs-40p-ev-charging-station",
-      "amps": 32,
-      "cord_length": 25,
-      "home_outlet": "Hardwired",
-      "form_factor": "Wall mounted",
-      "wifi": "no",
-      "warranty": 3,
-      "safe_outdoors": "Yes",
-      "made_in_america": 1,
-      "details_link": "https://store.clippercreek.com/residential/hcs-40-hcs-40p-ev-charging-station?limit=100",
-      "spec_src": "https://store.clippercreek.com/residential/hcs-40-hcs-40p-ev-charging-station",
-      "img": "ClipperCreek HCS-40.png",
-      "has_discount": 0,
-      "discount_value": 0,
-      "discount_code": "",
-      "last_updated": "2020-05-14"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
